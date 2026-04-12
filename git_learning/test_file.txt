@@ -1,0 +1,3 @@
+This is my first journey into git.
+I created my github account some years ago, but i have not contributed anything to it.
+Henceforth, I will start committing my projects to it, build connections with others and learn.
